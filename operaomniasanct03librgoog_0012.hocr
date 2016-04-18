@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniasanct03librgoog_0012.png"; bbox 0 0 692 1460; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 94 285 520 379">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 94 285 520 379">
+     <span class='ocr_line' id='line_1_1' title="bbox 94 285 520 320; baseline 0.021 -9"><span class='ocrx_word' id='word_1_1' title='bbox 94 285 126 319; x_wconf 77' lang='lat' dir='ltr'>Q</span> <span class='ocrx_word' id='word_1_2' title='bbox 143 290 301 314; x_wconf 81' lang='lat' dir='ltr'>SEPTIMH</span> <span class='ocrx_word' id='word_1_3' title='bbox 319 292 520 320; x_wconf 77' lang='lat' dir='ltr'><strong>FLORENTIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 161 348 449 379; baseline 0.014 -4"><span class='ocrx_word' id='word_1_4' title='bbox 161 348 449 379; x_wconf 83' lang='lat' dir='ltr'>TERTULLIANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 57 410 573 471">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 57 410 573 471">
+     <span class='ocr_line' id='line_1_3' title="bbox 57 410 573 471; baseline 0.016 -10"><span class='ocrx_word' id='word_1_5' title='bbox 57 410 284 463; x_wconf 89' lang='lat' dir='ltr'>)PERA</span> <span class='ocrx_word' id='word_1_6' title='bbox 322 414 573 471; x_wconf 88' lang='lat' dir='ltr'>OMNIA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 81 625 569 1050">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 81 625 569 1050">
+     <span class='ocr_line' id='line_1_4' title="bbox 81 625 569 1050; baseline 0 410"><span class='ocrx_word' id='word_1_7' title='bbox 81 625 569 1050; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 206 1051 390 1070">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 206 1051 390 1070">
+     <span class='ocr_line' id='line_1_5' title="bbox 206 1051 390 1070; baseline 0.005 -1"><span class='ocrx_word' id='word_1_8' title='bbox 206 1051 342 1069; x_wconf 80' lang='lat' dir='ltr'><em>TOMUS</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 367 1052 390 1070; x_wconf 90' lang='lat'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 235 1099 359 1104">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 235 1099 359 1104">
+     <span class='ocr_line' id='line_1_6' title="bbox 235 1099 359 1104; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 235 1099 359 1104; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 73 1127 500 1190">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 73 1127 500 1190">
+     <span class='ocr_line' id='line_1_7' title="bbox 164 1127 428 1153; baseline -0.004 -5"><span class='ocrx_word' id='word_1_11' title='bbox 164 1127 428 1153; x_wconf 80' lang='lat' dir='ltr'>WIRCEBURGI,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 73 1158 500 1190; baseline -0.007 0"><span class='ocrx_word' id='word_1_12' title='bbox 73 1158 75 1161; x_wconf 39' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_13' title='bbox 93 1168 116 1190; x_wconf 82' lang='lat' dir='ltr'><strong>In</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 133 1168 211 1189; x_wconf 78' lang='lat' dir='ltr'>Officina</span> <span class='ocrx_word' id='word_1_15' title='bbox 226 1169 308 1188; x_wconf 71' lang='lat' dir='ltr'>Libraxia</span> <span class='ocrx_word' id='word_1_16' title='bbox 323 1169 500 1188; x_wconf 56' lang='lat' dir='ltr'><strong>Summum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 209 1224 384 1249">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 209 1224 384 1249">
+     <span class='ocr_line' id='line_1_9' title="bbox 209 1224 384 1249; baseline -0.006 -6"><span class='ocrx_word' id='word_1_17' title='bbox 209 1226 227 1243; x_wconf 75' lang='grc' dir='ltr'><strong><em>Μ</em></strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 237 1224 289 1242; x_wconf 78' lang='lat' dir='ltr'><strong>DCC</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 298 1224 384 1249; x_wconf 31' lang='lat' dir='ltr'>Lxxsxl.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
